@@ -4,7 +4,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      
+      <button className="btn btn-primary">
       Hello
+      </button>
       <footer>
       <a href="https://github.com/akh-io/react-weather-app-final" target="blank">
         Open source
