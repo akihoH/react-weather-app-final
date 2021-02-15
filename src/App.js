@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
      <div className="container">
-       <Weather />
+       <Weather defaultCity="Tokyo"/>
       <footer>
       <a href="https://github.com/akh-io/react-weather-app-final" target="blank">
         Open source
