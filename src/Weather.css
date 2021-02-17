@@ -34,12 +34,12 @@
 }
 
 .weather ul.details {
-  margin-top: 30px;
+  margin-top: 15px;
   text-align: left;
   list-style-type: none;
   font-size: 16px;
   padding: 0;
-  line-height: 2.2em;
+  line-height: 2.3em;
 }
 
 .weather .search-engine {
