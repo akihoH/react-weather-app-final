@@ -17,12 +17,11 @@ export default function Weather(props) {
     description: response.data.weather[0].description,
     icon: response.data.weather[0].icon,
     city: response.data.name,
-    date: new Date(response.data.dt * 1000)
+    date: new Date(response.data.dt *1000)
     });
   }
-
   function search () {
-    const apiKey = "cbbbf47964f1e326cc360a17986bc388";
+    const apiKey = "6e59e8f1afc966e28727aa609b4dc84b";
   let apiUrl = `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
   axios.get(apiUrl).then(handleResposne);
 
