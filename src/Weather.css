@@ -17,20 +17,23 @@
   margin-bottom: 40px;
 }
 
-.weather img {
-  margin-top: 0px;
-}
-
 .weather ul.main {
   text-align: center;
   list-style-type: none;
-  font-size: 16px;
+  font-size: 20px;
   padding: 0;
 }
 
 .weather ul.main .temperature {
-  font-size: 40px;
+  font-size: 50px;
   font-weight: bold;
+}
+
+.weather ul.main .unit {
+  font-size: 16px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 20px;
 }
 
 .weather ul.details {

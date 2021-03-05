@@ -17,7 +17,6 @@ return (
             <ul className="main">
               <li className="text-capitalize">{props.data.description}</li>
               <li><WeatherTemperature celsius={props.data.temperature}/>
-            
               </li>
             </ul>
         </div>
