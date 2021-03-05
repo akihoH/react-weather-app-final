@@ -46,7 +46,7 @@
 
 .weather .search-engine {
   margin: 30px auto;
-  max-width: 280px;
+  max-width: auto;
   display: block;
 }
 
