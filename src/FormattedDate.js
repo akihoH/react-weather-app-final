@@ -12,8 +12,8 @@ if (minutes < 10) {
   minutes = `0${minutes}`;
 }
 return (
-<div>
-  {day}, {hours}:{minutes}
+<div className="formatted-date">
+  As of {day} {hours}:{minutes} CET
 </div>
 );
 }
