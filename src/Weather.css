@@ -46,9 +46,13 @@
 }
 
 .weather .search-engine {
-  margin: 30px auto;
-  max-width: 300px;
+  margin: 30px 0;
+  width: 100%;
   display: block;
+}
+
+.weather .btn {
+  width: 100%;
 }
 
 div .weather {
