@@ -23,9 +23,9 @@ return (
         <div className="col-6">
           <ul className="details">
             <li>Lowest Temp: {Math.round(props.data.minTemperature)}°C</li>
-            <li>Higest Temp: {Math.round(props.data.maxTemperature)}°C</li>
+            <li>Highest Temp: {Math.round(props.data.maxTemperature)}°C</li>
             <li>Humidity: {props.data.humidity}%</li>
-            <li>Wind Spped: {Math.round(props.data.windSpeed*10)/10}km/h</li>
+            <li>Wind Speed: {Math.round(props.data.windSpeed*10)/10}km/h</li>
           </ul>
         </div>
       </div>
