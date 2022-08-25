@@ -1,12 +1,8 @@
 # React weather app
 
-# Introduction
+Introduction: A weather app where you can check current weather in different cities in the world.
 
-A weather app where you can check current weather in different cities in the world.
-
-# Technologies
-
-HTML, CSS, Javascript, React, Bootstrap
+Technologies: HTML, CSS, Javascript, React, Bootstrap
 
 # Getting Started with Create React App
 
