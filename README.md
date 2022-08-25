@@ -1,3 +1,13 @@
+#React weather app
+
+#Introduction
+
+A weather app where you can check current weather in different cities in the world.
+
+#Technologies
+
+HTML, CSS, Javascript, React, Bootstrap
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
